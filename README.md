@@ -1,4 +1,4 @@
-# SU CIS667 Semester Project 2048 Game AI
+# 2048 Neural Network Game AI
 ## About
 Command line 2048 game, written in Python 3. With slight modification to the original game rule: the agent can also choose to rotate the tiles in the 2x2 square in the middle of the board by +/- 90 degrees. Game can be played manually by user or by AI.
 
